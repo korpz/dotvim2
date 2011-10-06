@@ -1,0 +1,33 @@
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "bundle/css-color.vim"]
+	path = bundle/css-color.vim
+	url = https://github.com/skammer/vim-css-color.git
+[submodule "bundle/vimpress"]
+	path = bundle/vimpress
+	url = https://github.com/PotHix/Vimpress.git
+[submodule "bundle/vimprepress"]
+	path = bundle/vimprepress
+	url = https://github.com/vim-scripts/VimRepress.git
+[submodule "bundle/vimrepress"]
+	path = bundle/vimrepress
+	url = https://github.com/vim-scripts/VimRepress.git
+[submodule "FuzzyFinder"]
+	path = FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "bundle/fuzzyFinder"]
+	path = bundle/fuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "yankring"]
+	path = bundle/yankring
+	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule "bundle/yankring"]
+	path = bundle/yankring
+	url = https://github.com/chrismetcalf/vim-yankring.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = https://github.com/edsono/vim-matchit.git
+[submodule "bundle/ynkring"]
+	path = bundle/ynkring
+	url = https://github.com/vim-scripts/YankRing.vim.git

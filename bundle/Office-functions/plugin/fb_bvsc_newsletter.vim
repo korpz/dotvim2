@@ -30,3 +30,10 @@ function! BvscFormatHtmlBlue()
 endfunction
 
 command! BvscFmtB call BvscFormatHtmlBlue()
+
+
+function! InOffice()
+	echo '$ips = array("87.194.124.8"); if (in_array($_SERVER["REMOTE_ADDR"], $ips)) die();'
+endfunction
+
+command! Inoffice call InOffice()
